@@ -1,7 +1,7 @@
 # Alzheimer Classification Model
 Senior Capstone Project for DSC 599
 
-Creating a machine learning model that can binary classify between Demented and Non Demented MRI scans. Also, using a Grad-CAM (Gradient-weighted Class Activation Mapping, generate a heatmap to display regions with the highest activation and strongest influence on the model.
+Creating a machine learning model that can binary classify between Demented and Non Demented MRI scans. Also, using CAM (Class Activation Mapping), generate a heatmap to display regions with the highest activation and strongest influence on the model.
 
 To download the binary classification dataset used in this project, run these lines of code in Google Colab (also found in the notebook file):
 
